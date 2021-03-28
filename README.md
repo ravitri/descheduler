@@ -1,2 +1,2 @@
-# descheduler
+# Descheduler
 Exploring Kubernetes Descheduler
